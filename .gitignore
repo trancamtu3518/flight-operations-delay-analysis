@@ -1,0 +1,24 @@
+# Power BI temp files
+*.tmp
+*.temp
+~$*
+*.bak
+
+# School draft docs
+*.docx
+test/
+powerbi/
+
+# Python / Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+__pycache__/
+*.py[cod]
+.venv/
+env/
+venv/
+
+# OS generated files
+Thumbs.db
+.DS_Store
+desktop.ini

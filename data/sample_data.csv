@@ -1,0 +1,1001 @@
+num_passengers,sales_channel,trip_type,purchase_lead,length_of_stay,flight_hour,flight_day,route,booking_origin,wants_extra_baggage,wants_preferred_seat,wants_in_flight_meals,flight_duration,booking_complete
+1,Internet,RoundTrip,21,12,6,Tue,AKLHGH,Australia,0,0,0,7.21,1
+2,Internet,RoundTrip,262,19,7,Sat,AKLDEL,New Zealand,1,0,0,5.52,0
+1,Internet,RoundTrip,112,20,3,Sat,AKLDEL,New Zealand,0,0,0,5.52,0
+2,Internet,RoundTrip,243,22,17,Wed,AKLDEL,India,1,1,0,5.52,0
+1,Internet,RoundTrip,96,31,4,Sat,AKLDEL,New Zealand,0,0,1,5.52,0
+2,Internet,RoundTrip,68,22,15,Wed,AKLDEL,India,1,0,1,5.52,0
+1,Internet,RoundTrip,3,48,20,Thu,AKLDEL,New Zealand,1,0,1,5.52,0
+3,Internet,RoundTrip,201,33,6,Thu,AKLDEL,New Zealand,1,0,1,5.52,0
+2,Internet,RoundTrip,238,19,14,Mon,AKLDEL,India,1,0,1,5.52,0
+1,Internet,RoundTrip,80,22,4,Mon,AKLDEL,New Zealand,0,0,1,5.52,0
+1,Mobile,RoundTrip,378,30,12,Sun,AKLDEL,India,0,0,0,5.52,0
+2,Internet,RoundTrip,185,25,14,Tue,AKLDEL,United Kingdom,1,1,1,5.52,0
+1,Internet,RoundTrip,8,43,2,Sat,AKLDEL,New Zealand,1,1,1,5.52,0
+4,Internet,RoundTrip,265,24,19,Mon,AKLDEL,New Zealand,1,0,1,5.52,0
+1,Internet,RoundTrip,185,17,14,Fri,AKLDEL,India,0,0,0,5.52,0
+1,Internet,RoundTrip,245,34,4,Tue,AKLDEL,New Zealand,1,1,1,5.52,0
+1,Internet,RoundTrip,192,18,14,Thu,AKLDEL,India,1,0,0,5.52,0
+1,Internet,RoundTrip,259,37,6,Sun,AKLDEL,India,0,0,0,5.52,0
+1,Internet,RoundTrip,19,29,10,Sat,AKLDEL,New Zealand,0,0,1,5.52,0
+1,Internet,RoundTrip,67,155,8,Sun,AKLDEL,New Zealand,1,0,0,5.52,0
+1,Internet,RoundTrip,351,17,3,Sun,AKLHGH,China,0,0,0,5.07,0
+2,Internet,CircleTrip,228,29,23,Wed,AKLHND,New Zealand,1,0,0,7.57,0
+1,Internet,RoundTrip,21,88,9,Wed,AKLICN,South Korea,1,0,1,6.62,0
+2,Internet,RoundTrip,23,19,8,Mon,AKLICN,New Zealand,1,0,1,6.62,0
+2,Internet,RoundTrip,25,27,13,Fri,AKLICN,South Korea,1,0,1,6.62,0
+1,Internet,RoundTrip,16,21,6,Thu,AKLICN,New Zealand,1,0,1,6.62,0
+1,Internet,RoundTrip,66,20,7,Thu,AKLICN,South Korea,1,0,0,6.62,0
+1,Internet,RoundTrip,51,28,6,Fri,AKLICN,South Korea,0,0,0,6.62,0
+2,Internet,RoundTrip,37,24,7,Mon,AKLICN,New Zealand,1,0,0,6.62,0
+1,Internet,RoundTrip,101,19,11,Tue,AKLICN,South Korea,1,0,1,6.62,0
+1,Internet,RoundTrip,19,47,2,Tue,AKLICN,New Zealand,1,0,1,6.62,0
+1,Internet,RoundTrip,16,35,23,Wed,AKLICN,New Zealand,1,1,0,6.62,0
+2,Internet,RoundTrip,7,82,4,Thu,AKLICN,South Korea,1,0,1,6.62,0
+1,Internet,RoundTrip,5,27,0,Fri,AKLICN,New Zealand,0,0,1,6.62,0
+1,Internet,RoundTrip,185,34,4,Mon,AKLICN,New Zealand,1,0,1,6.62,0
+1,Internet,RoundTrip,21,22,7,Fri,AKLICN,New Zealand,1,1,0,6.62,0
+1,Internet,RoundTrip,7,27,4,Wed,AKLICN,New Zealand,0,0,1,6.62,0
+1,Internet,RoundTrip,33,22,14,Sat,AKLICN,South Korea,1,0,0,6.62,0
+6,Internet,RoundTrip,20,22,3,Fri,AKLICN,South Korea,1,1,1,6.62,0
+2,Internet,RoundTrip,56,21,7,Thu,AKLICN,New Zealand,1,0,0,6.62,0
+1,Internet,RoundTrip,3,33,1,Mon,AKLICN,South Korea,1,0,1,6.62,0
+1,Internet,RoundTrip,13,26,7,Mon,AKLICN,South Korea,1,0,0,6.62,0
+1,Internet,RoundTrip,71,90,7,Thu,AKLICN,South Korea,1,1,1,6.62,0
+2,Internet,RoundTrip,346,23,8,Mon,AKLICN,South Korea,1,0,1,6.62,0
+1,Internet,RoundTrip,9,84,7,Wed,AKLICN,New Zealand,1,0,0,6.62,0
+1,Internet,RoundTrip,65,22,14,Thu,AKLICN,South Korea,1,0,0,6.62,0
+1,Mobile,RoundTrip,221,61,2,Sun,AKLICN,New Zealand,0,0,0,6.62,0
+1,Internet,RoundTrip,65,18,14,Wed,AKLICN,South Korea,0,0,1,6.62,0
+2,Internet,RoundTrip,7,40,7,Wed,AKLICN,South Korea,1,0,1,6.62,0
+1,Internet,RoundTrip,107,24,14,Fri,AKLICN,South Korea,0,1,0,6.62,0
+1,Internet,RoundTrip,14,27,10,Wed,AKLICN,New Zealand,0,0,0,6.62,0
+1,Internet,RoundTrip,77,96,9,Tue,AKLICN,New Zealand,1,0,1,6.62,0
+1,Internet,RoundTrip,65,17,9,Wed,AKLICN,New Zealand,1,0,0,6.62,0
+1,Internet,RoundTrip,24,25,8,Thu,AKLICN,South Korea,1,0,1,6.62,0
+1,Internet,RoundTrip,47,69,2,Wed,AKLICN,South Korea,1,1,1,6.62,0
+1,Internet,RoundTrip,22,89,14,Tue,AKLICN,South Korea,1,0,1,6.62,0
+2,Internet,RoundTrip,11,25,4,Thu,AKLICN,South Korea,1,0,1,6.62,0
+1,Internet,RoundTrip,35,25,6,Tue,AKLICN,South Korea,0,0,1,6.62,0
+1,Internet,RoundTrip,272,21,14,Tue,AKLICN,New Zealand,1,0,0,6.62,0
+1,Internet,RoundTrip,20,18,10,Mon,AKLICN,New Zealand,0,0,0,6.62,0
+1,Internet,RoundTrip,250,23,9,Sun,AKLICN,South Korea,1,0,1,6.62,0
+1,Internet,RoundTrip,161,58,2,Sat,AKLICN,South Korea,1,0,1,6.62,0
+4,Internet,RoundTrip,128,21,9,Mon,AKLICN,New Zealand,1,1,0,6.62,0
+1,Internet,RoundTrip,190,27,14,Sun,AKLICN,South Korea,1,0,1,6.62,0
+4,Internet,RoundTrip,311,27,6,Sat,AKLICN,New Zealand,0,1,0,6.62,0
+1,Internet,RoundTrip,27,56,7,Fri,AKLICN,South Korea,1,0,1,6.62,0
+2,Internet,RoundTrip,314,43,10,Sun,AKLICN,New Zealand,0,0,0,6.62,0
+1,Internet,RoundTrip,25,29,11,Wed,AKLICN,South Korea,1,0,1,6.62,0
+1,Internet,RoundTrip,102,110,6,Tue,AKLICN,South Korea,1,0,0,6.62,0
+3,Mobile,CircleTrip,154,45,9,Wed,AKLICN,Canada,1,1,1,5.52,0
+1,Internet,RoundTrip,24,19,8,Mon,AKLICN,South Korea,1,0,1,6.62,0
+1,Internet,RoundTrip,2,165,3,Mon,AKLKIX,Japan,1,0,0,7.0,0
+1,Internet,RoundTrip,26,111,13,Mon,AKLKIX,Japan,1,0,1,7.0,0
+1,Internet,RoundTrip,32,34,23,Sun,AKLKIX,New Zealand,0,0,0,7.0,0
+2,Internet,RoundTrip,57,38,5,Sun,AKLKIX,New Zealand,1,0,0,7.0,0
+1,Internet,RoundTrip,198,207,10,Sun,AKLKIX,Japan,1,0,1,7.0,0
+1,Internet,RoundTrip,23,27,11,Sat,AKLKIX,Japan,0,0,0,7.0,0
+1,Internet,RoundTrip,33,20,6,Fri,AKLKTM,New Zealand,1,0,0,4.75,0
+2,Internet,RoundTrip,120,91,3,Mon,AKLKTM,New Zealand,1,0,1,4.75,0
+2,Internet,RoundTrip,69,34,4,Thu,AKLKTM,New Zealand,1,0,0,4.75,0
+1,Mobile,CircleTrip,281,18,3,Wed,AKLKTM,New Zealand,1,0,0,4.75,0
+1,Internet,CircleTrip,282,18,19,Tue,AKLKTM,New Zealand,1,0,0,4.75,0
+1,Internet,RoundTrip,69,21,3,Wed,AKLKTM,New Zealand,1,0,0,4.75,0
+1,Internet,OneWay,67,1,10,Tue,AKLKTM,New Zealand,1,0,0,4.75,0
+1,Internet,RoundTrip,15,31,17,Mon,AKLKUL,Malaysia,0,0,0,8.83,1
+1,Internet,RoundTrip,31,274,10,Tue,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,316,35,16,Tue,AKLKUL,Malaysia,1,0,0,8.83,0
+2,Internet,RoundTrip,232,17,3,Tue,AKLKUL,Malaysia,1,1,1,8.83,0
+1,Internet,RoundTrip,156,19,14,Mon,AKLKUL,Malaysia,1,0,0,8.83,1
+1,Internet,RoundTrip,196,44,23,Tue,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,283,38,9,Mon,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,34,24,5,Fri,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Mobile,RoundTrip,63,57,8,Mon,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Internet,RoundTrip,5,18,4,Tue,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Internet,RoundTrip,6,106,19,Tue,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Internet,RoundTrip,227,68,2,Fri,AKLKUL,Malaysia,1,1,0,8.83,0
+1,Internet,RoundTrip,181,87,2,Tue,AKLKUL,Singapore,1,0,1,8.83,1
+1,Internet,RoundTrip,8,33,3,Tue,AKLKUL,New Zealand,0,0,0,8.83,0
+2,Internet,RoundTrip,138,35,19,Fri,AKLKUL,Switzerland,1,0,1,8.83,0
+1,Internet,RoundTrip,134,37,20,Wed,AKLKUL,New Zealand,0,1,0,8.83,0
+2,Internet,RoundTrip,8,29,18,Thu,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,23,51,13,Fri,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Mobile,RoundTrip,57,21,1,Sun,AKLKUL,Malaysia,1,1,1,8.83,0
+2,Internet,RoundTrip,85,19,0,Mon,AKLKUL,New Zealand,1,1,0,8.83,0
+1,Internet,RoundTrip,65,31,23,Sun,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Internet,OneWay,27,1,13,Tue,AKLKUL,New Zealand,1,1,0,8.83,0
+1,Internet,RoundTrip,93,196,8,Tue,AKLKUL,Germany,1,0,0,8.83,0
+1,Mobile,RoundTrip,16,77,8,Mon,AKLKUL,New Zealand,0,0,1,8.83,0
+2,Internet,RoundTrip,118,17,8,Tue,AKLKUL,New Zealand,1,0,1,8.83,0
+2,Internet,RoundTrip,90,20,7,Thu,AKLKUL,Malaysia,0,0,1,8.83,0
+1,Internet,RoundTrip,168,41,23,Mon,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Mobile,RoundTrip,127,17,16,Tue,AKLKUL,Malaysia,1,0,1,8.83,1
+2,Mobile,RoundTrip,18,17,6,Mon,AKLKUL,New Zealand,1,1,1,8.83,0
+1,Internet,RoundTrip,153,30,10,Tue,AKLKUL,New Zealand,1,1,0,8.83,0
+1,Internet,RoundTrip,51,21,9,Sat,AKLKUL,Malaysia,1,0,1,8.83,0
+2,Internet,RoundTrip,186,27,2,Tue,AKLKUL,New Zealand,1,1,1,8.83,0
+1,Internet,RoundTrip,5,87,5,Tue,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,65,278,2,Thu,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Internet,RoundTrip,2,18,6,Thu,AKLKUL,New Zealand,1,1,0,8.83,0
+1,Internet,RoundTrip,263,58,4,Sun,AKLKUL,Malaysia,0,1,0,8.83,0
+6,Internet,RoundTrip,172,28,0,Sat,AKLKUL,New Zealand,0,0,1,8.83,0
+1,Internet,RoundTrip,161,108,2,Thu,AKLKUL,New Zealand,1,1,0,8.83,0
+4,Internet,RoundTrip,230,29,17,Mon,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,7,21,0,Mon,AKLKUL,Indonesia,0,0,0,8.83,0
+1,Internet,RoundTrip,42,17,14,Tue,AKLKUL,Malaysia,0,0,0,8.83,1
+1,Internet,RoundTrip,71,29,10,Fri,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,22,180,13,Thu,AKLKUL,Malaysia,1,0,0,8.83,1
+1,Internet,RoundTrip,81,21,4,Fri,AKLKUL,New Zealand,1,0,0,8.83,0
+2,Internet,RoundTrip,140,18,7,Sun,AKLKUL,China,1,0,0,8.83,0
+1,Mobile,RoundTrip,42,72,14,Sat,AKLKUL,New Zealand,0,0,1,8.83,0
+1,Internet,RoundTrip,168,32,2,Tue,AKLKUL,New Zealand,1,1,0,8.83,0
+1,Internet,RoundTrip,285,30,12,Wed,AKLKUL,Czech Republic,1,1,1,8.83,0
+2,Internet,RoundTrip,179,18,11,Thu,AKLKUL,Malaysia,1,0,1,8.83,0
+2,Internet,RoundTrip,341,21,10,Sat,AKLKUL,New Zealand,1,0,0,8.83,0
+2,Internet,RoundTrip,96,51,3,Thu,AKLKUL,New Zealand,1,0,1,8.83,0
+4,Internet,RoundTrip,173,17,1,Thu,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,180,24,9,Wed,AKLKUL,New Zealand,0,1,1,8.83,0
+4,Internet,RoundTrip,366,17,16,Sun,AKLKUL,Malaysia,1,0,1,8.83,0
+3,Internet,RoundTrip,229,17,13,Mon,AKLKUL,Malaysia,1,1,1,8.83,1
+2,Internet,RoundTrip,174,61,11,Tue,AKLKUL,Malaysia,1,0,1,8.83,0
+2,Internet,RoundTrip,82,25,18,Fri,AKLKUL,Czech Republic,1,0,0,8.83,0
+1,Internet,RoundTrip,75,62,6,Mon,AKLKUL,Malaysia,0,0,0,8.83,0
+2,Internet,RoundTrip,163,21,10,Mon,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,105,21,8,Fri,AKLKUL,New Zealand,1,0,0,8.83,0
+2,Internet,RoundTrip,276,45,6,Mon,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,35,31,3,Thu,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,110,26,23,Wed,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,83,44,3,Sat,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Mobile,RoundTrip,154,25,22,Mon,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,118,19,1,Tue,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,55,20,22,Wed,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Mobile,RoundTrip,45,35,1,Sat,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Internet,RoundTrip,54,23,4,Sun,AKLKUL,New Zealand,0,0,1,8.83,0
+1,Internet,RoundTrip,193,19,13,Tue,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Internet,RoundTrip,10,91,23,Tue,AKLKUL,Singapore,1,0,0,8.83,1
+1,Internet,RoundTrip,166,18,20,Wed,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,97,25,9,Sun,AKLKUL,Malaysia,1,0,0,8.83,0
+5,Internet,RoundTrip,239,17,12,Thu,AKLKUL,Malaysia,1,0,1,8.83,0
+2,Internet,RoundTrip,97,50,8,Sat,AKLKUL,New Zealand,1,1,1,8.83,0
+1,Internet,RoundTrip,182,28,10,Sun,AKLKUL,Vietnam,0,0,1,8.83,0
+1,Internet,RoundTrip,99,21,13,Sun,AKLKUL,Singapore,0,0,0,8.83,1
+1,Internet,RoundTrip,23,59,9,Tue,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Mobile,RoundTrip,53,18,9,Mon,AKLKUL,Malaysia,1,1,0,8.83,0
+1,Internet,RoundTrip,28,125,12,Sat,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Internet,RoundTrip,384,18,5,Thu,AKLKUL,Malaysia,0,0,0,8.83,0
+2,Internet,RoundTrip,22,27,23,Fri,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,70,106,3,Thu,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,126,28,20,Sun,AKLKUL,Germany,1,0,0,8.83,0
+1,Internet,RoundTrip,8,45,8,Tue,AKLKUL,Malaysia,0,0,0,8.83,0
+2,Internet,RoundTrip,51,29,11,Sun,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,142,124,9,Wed,AKLKUL,Malaysia,1,0,0,8.83,1
+1,Internet,RoundTrip,87,33,9,Sat,AKLKUL,Thailand,1,0,0,8.83,0
+5,Mobile,RoundTrip,238,21,8,Fri,AKLKUL,New Zealand,1,1,1,8.83,0
+2,Internet,RoundTrip,86,34,0,Sat,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Mobile,RoundTrip,313,35,20,Sat,AKLKUL,New Zealand,1,0,0,8.83,0
+2,Internet,RoundTrip,41,20,20,Sun,AKLKUL,Spain,1,1,1,8.83,0
+1,Internet,RoundTrip,91,46,8,Wed,AKLKUL,New Zealand,1,1,1,8.83,0
+1,Mobile,RoundTrip,41,21,12,Tue,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,82,33,10,Tue,AKLKUL,New Zealand,1,0,0,8.83,0
+5,Internet,RoundTrip,206,17,13,Sun,AKLKUL,Malaysia,1,0,0,8.83,0
+4,Internet,RoundTrip,6,55,5,Thu,AKLKUL,New Zealand,1,1,0,8.83,0
+5,Internet,RoundTrip,197,18,10,Fri,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,34,22,13,Tue,AKLKUL,Malaysia,1,0,1,8.83,1
+2,Internet,RoundTrip,112,21,17,Tue,AKLKUL,Malaysia,1,0,0,8.83,0
+2,Internet,RoundTrip,268,47,1,Mon,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,157,26,15,Mon,AKLKUL,Romania,1,0,1,8.83,0
+2,Internet,RoundTrip,145,51,4,Wed,AKLKUL,Malaysia,1,1,1,8.83,0
+4,Internet,RoundTrip,241,24,9,Mon,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Internet,RoundTrip,172,17,9,Fri,AKLKUL,Ireland,0,0,1,8.83,0
+1,Internet,RoundTrip,99,19,7,Wed,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Mobile,RoundTrip,139,22,8,Sun,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,59,35,13,Sun,AKLKUL,Malaysia,0,1,0,8.83,1
+1,Internet,RoundTrip,396,23,9,Mon,AKLKUL,New Zealand,1,0,1,8.83,0
+2,Internet,RoundTrip,280,18,23,Tue,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,79,23,10,Tue,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Internet,RoundTrip,37,26,21,Wed,AKLKUL,New Zealand,1,0,0,8.83,0
+2,Internet,RoundTrip,69,19,17,Sat,AKLKUL,Italy,1,0,0,8.83,0
+1,Internet,RoundTrip,380,21,21,Thu,AKLKUL,New Zealand,1,1,0,8.83,0
+5,Internet,RoundTrip,206,17,13,Sun,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,13,27,1,Wed,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,229,31,2,Fri,AKLKUL,New Zealand,0,0,1,8.83,0
+1,Internet,RoundTrip,132,20,9,Mon,AKLKUL,Slovakia,1,0,0,8.83,0
+4,Internet,RoundTrip,121,18,6,Sun,AKLKUL,Malaysia,1,1,1,8.83,0
+4,Internet,RoundTrip,316,22,14,Thu,AKLKUL,Malaysia,1,0,0,8.83,1
+5,Internet,RoundTrip,67,35,2,Tue,AKLKUL,Malaysia,1,1,1,8.83,1
+1,Internet,RoundTrip,419,21,16,Sun,AKLKUL,Malaysia,1,0,0,8.83,0
+2,Internet,RoundTrip,18,46,2,Mon,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Internet,RoundTrip,58,21,12,Wed,AKLKUL,United Arab Emirates,1,0,1,8.83,0
+2,Internet,RoundTrip,115,87,6,Wed,AKLKUL,Tonga,0,0,0,8.83,0
+1,Internet,RoundTrip,236,91,6,Fri,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,225,25,6,Tue,AKLKUL,Germany,1,1,0,8.83,1
+1,Internet,RoundTrip,116,56,15,Thu,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,34,90,7,Sat,AKLKUL,Malaysia,1,1,0,8.83,0
+1,Internet,RoundTrip,191,60,11,Sun,AKLKUL,Germany,1,0,1,8.83,0
+1,Internet,RoundTrip,55,22,7,Sat,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Mobile,RoundTrip,53,180,2,Sat,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,13,17,3,Sun,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Internet,RoundTrip,275,36,4,Wed,AKLKUL,New Zealand,1,1,0,8.83,0
+1,Internet,RoundTrip,58,17,7,Sun,AKLKUL,New Zealand,1,0,1,8.83,0
+2,Internet,RoundTrip,45,25,1,Mon,AKLKUL,New Zealand,0,0,0,8.83,0
+2,Internet,RoundTrip,417,22,4,Sun,AKLKUL,New Zealand,1,0,1,8.83,0
+2,Internet,RoundTrip,159,21,8,Fri,AKLKUL,New Zealand,1,0,0,8.83,0
+2,Internet,RoundTrip,173,40,8,Sun,AKLKUL,New Zealand,0,0,0,8.83,0
+2,Internet,RoundTrip,92,65,13,Mon,AKLKUL,RÃ©union,1,0,0,8.83,0
+1,Internet,RoundTrip,106,208,4,Thu,AKLKUL,Japan,1,0,0,8.83,0
+3,Internet,RoundTrip,316,35,16,Tue,AKLKUL,Malaysia,0,0,0,8.83,0
+2,Internet,RoundTrip,245,27,11,Mon,AKLKUL,New Zealand,0,0,0,8.83,1
+3,Internet,RoundTrip,218,21,8,Tue,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Internet,RoundTrip,96,106,1,Sun,AKLKUL,New Zealand,1,1,1,8.83,0
+1,Internet,RoundTrip,67,22,11,Mon,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Internet,RoundTrip,145,204,16,Fri,AKLKUL,Malaysia,1,1,1,8.83,0
+1,Internet,RoundTrip,295,18,6,Mon,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Internet,RoundTrip,57,51,3,Wed,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Mobile,RoundTrip,12,20,8,Tue,AKLKUL,New Zealand,1,0,0,8.83,0
+3,Internet,RoundTrip,77,31,0,Thu,AKLKUL,New Zealand,1,0,0,8.83,0
+2,Internet,RoundTrip,7,83,16,Tue,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Mobile,RoundTrip,305,18,3,Wed,AKLKUL,New Zealand,0,0,0,8.83,0
+2,Internet,RoundTrip,235,18,22,Tue,AKLKUL,Malaysia,1,0,1,8.83,1
+1,Internet,RoundTrip,332,17,11,Sat,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Internet,RoundTrip,3,35,6,Tue,AKLKUL,New Zealand,1,0,0,8.83,0
+2,Internet,RoundTrip,56,42,4,Thu,AKLKUL,Malaysia,1,0,1,8.83,1
+2,Internet,RoundTrip,125,85,15,Thu,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,86,21,2,Sat,AKLKUL,Malaysia,1,0,0,8.83,0
+2,Internet,RoundTrip,204,24,6,Mon,AKLKUL,New Zealand,1,1,0,8.83,0
+1,Internet,RoundTrip,310,44,13,Tue,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,115,20,7,Mon,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,57,24,12,Thu,AKLKUL,New Zealand,1,0,0,8.83,0
+4,Internet,RoundTrip,368,36,16,Sun,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Internet,RoundTrip,59,37,15,Sun,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Internet,RoundTrip,6,21,21,Sun,AKLKUL,New Zealand,0,0,0,8.83,0
+3,Internet,RoundTrip,67,22,7,Wed,AKLKUL,Vietnam,1,1,0,8.83,0
+1,Internet,RoundTrip,169,22,9,Sat,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,214,38,12,Thu,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Internet,RoundTrip,5,19,14,Thu,AKLKUL,Malaysia,1,0,0,8.83,0
+2,Internet,RoundTrip,14,17,10,Sat,AKLKUL,(not set),1,0,0,8.83,1
+2,Internet,RoundTrip,173,64,14,Thu,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Internet,RoundTrip,7,22,7,Mon,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,196,86,3,Sun,AKLKUL,New Zealand,1,0,0,8.83,0
+2,Internet,RoundTrip,155,24,7,Sun,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,245,19,9,Sat,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Mobile,RoundTrip,22,82,10,Fri,AKLKUL,Malaysia,1,1,1,8.83,1
+1,Internet,RoundTrip,325,22,4,Wed,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,OneWay,6,1,23,Sun,AKLKUL,New Zealand,1,0,0,8.83,0
+2,Internet,RoundTrip,130,18,10,Mon,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Internet,RoundTrip,218,17,2,Fri,AKLKUL,Malaysia,1,0,1,8.83,1
+1,Internet,RoundTrip,189,35,8,Sun,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,35,41,15,Thu,AKLKUL,Malaysia,1,1,1,8.83,0
+1,Internet,RoundTrip,189,60,8,Tue,AKLKUL,New Zealand,0,1,1,8.83,0
+4,Internet,RoundTrip,226,17,6,Sun,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,122,30,13,Thu,AKLKUL,India,1,0,0,8.83,0
+2,Internet,RoundTrip,88,30,8,Wed,AKLKUL,Malaysia,1,0,1,8.83,0
+4,Internet,RoundTrip,211,21,10,Fri,AKLKUL,Malaysia,1,0,0,8.83,1
+1,Internet,RoundTrip,259,82,9,Sun,AKLKUL,Malaysia,1,0,1,8.83,1
+5,Internet,RoundTrip,188,17,12,Thu,AKLKUL,Malaysia,1,0,1,8.83,1
+1,Internet,RoundTrip,129,25,9,Mon,AKLKUL,New Zealand,1,0,1,8.83,0
+2,Internet,RoundTrip,190,69,21,Thu,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,172,54,8,Tue,AKLKUL,Malaysia,1,1,1,8.83,0
+1,Internet,RoundTrip,149,17,4,Mon,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,15,28,7,Sun,AKLKUL,Saudi Arabia,0,0,0,8.83,1
+4,Internet,RoundTrip,38,17,4,Sun,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Mobile,RoundTrip,8,238,5,Fri,AKLKUL,New Zealand,1,1,0,8.83,0
+1,Internet,RoundTrip,214,23,8,Sun,AKLKUL,New Zealand,1,1,0,8.83,0
+1,Internet,RoundTrip,14,275,3,Wed,AKLKUL,Singapore,1,0,1,8.83,1
+2,Internet,RoundTrip,9,84,13,Fri,AKLKUL,Malaysia,1,1,1,8.83,0
+1,Internet,RoundTrip,70,20,14,Sat,AKLKUL,Malaysia,0,0,0,8.83,0
+3,Internet,RoundTrip,35,17,3,Sun,AKLKUL,Malaysia,1,0,1,8.83,0
+4,Internet,RoundTrip,53,42,23,Sat,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,77,28,15,Wed,AKLKUL,Malaysia,1,1,0,8.83,0
+2,Internet,RoundTrip,259,39,21,Thu,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,106,27,7,Sun,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Internet,RoundTrip,194,86,3,Sun,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,134,26,15,Wed,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,3,36,16,Sun,AKLKUL,Malaysia,0,0,1,8.83,1
+1,Internet,RoundTrip,149,17,2,Thu,AKLKUL,New Zealand,1,0,1,8.83,0
+2,Internet,RoundTrip,9,44,8,Fri,AKLKUL,Malaysia,1,0,1,8.83,1
+1,Internet,RoundTrip,37,95,17,Tue,AKLKUL,Netherlands,1,0,1,8.83,0
+2,Internet,RoundTrip,183,34,11,Fri,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,40,31,5,Fri,AKLKUL,New Zealand,1,1,1,8.83,0
+1,Internet,RoundTrip,95,83,6,Wed,AKLKUL,New Zealand,0,0,0,8.83,1
+1,Internet,RoundTrip,135,24,4,Fri,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Mobile,RoundTrip,15,90,13,Fri,AKLKUL,Germany,1,0,1,8.83,0
+1,Internet,RoundTrip,222,23,9,Sat,AKLKUL,Malaysia,0,0,1,8.83,1
+2,Internet,RoundTrip,64,29,12,Mon,AKLKUL,Malaysia,1,0,0,8.83,1
+1,Internet,RoundTrip,162,19,8,Tue,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,22,27,9,Sun,AKLKUL,New Zealand,0,0,1,8.83,0
+2,Internet,RoundTrip,150,31,8,Sun,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,73,27,12,Fri,AKLKUL,New Zealand,0,0,0,8.83,0
+3,Internet,RoundTrip,133,19,9,Sat,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Internet,OneWay,24,1,0,Wed,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,66,20,14,Sun,AKLKUL,Malaysia,0,1,1,8.83,0
+3,Internet,RoundTrip,89,22,6,Sat,AKLKUL,Malaysia,1,0,0,8.83,0
+2,Internet,RoundTrip,105,91,12,Sat,AKLKUL,Malaysia,1,1,1,8.83,0
+1,Internet,RoundTrip,115,95,9,Thu,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,151,39,7,Sun,AKLKUL,New Zealand,1,0,1,8.83,0
+3,Internet,RoundTrip,349,18,20,Mon,AKLKUL,New Zealand,1,1,0,8.83,0
+1,Internet,RoundTrip,13,18,9,Fri,AKLKUL,Malaysia,1,0,1,8.83,1
+2,Internet,RoundTrip,29,20,1,Fri,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Mobile,RoundTrip,69,28,14,Thu,AKLKUL,Malaysia,1,1,1,8.83,0
+5,Internet,RoundTrip,206,17,13,Sun,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,6,21,3,Fri,AKLKUL,Malaysia,1,0,0,8.83,0
+2,Mobile,RoundTrip,23,31,4,Mon,AKLKUL,Indonesia,1,0,0,8.83,0
+1,Internet,RoundTrip,197,19,3,Mon,AKLKUL,New Zealand,0,0,0,8.83,1
+2,Internet,RoundTrip,368,65,2,Sun,AKLKUL,Malaysia,1,0,1,8.83,1
+1,Internet,RoundTrip,25,19,6,Fri,AKLKUL,Malaysia,1,1,0,8.83,0
+1,Internet,RoundTrip,189,33,11,Fri,AKLKUL,Qatar,1,1,1,8.83,1
+1,Mobile,RoundTrip,123,70,22,Tue,AKLKUL,Malaysia,0,0,0,8.83,0
+2,Internet,RoundTrip,298,22,7,Tue,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,89,24,9,Sun,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,241,125,11,Wed,AKLKUL,New Zealand,1,0,1,8.83,0
+2,Mobile,RoundTrip,195,27,2,Wed,AKLKUL,New Zealand,1,1,1,8.83,0
+1,Mobile,RoundTrip,84,18,9,Wed,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Internet,RoundTrip,410,25,13,Sat,AKLKUL,Germany,1,1,0,8.83,1
+3,Internet,RoundTrip,95,24,8,Tue,AKLKUL,New Zealand,1,1,1,8.83,1
+1,Internet,RoundTrip,122,54,5,Thu,AKLKUL,Hong Kong,0,0,1,8.83,0
+2,Internet,RoundTrip,216,26,9,Sun,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Internet,RoundTrip,89,20,23,Wed,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,111,42,7,Mon,AKLKUL,Japan,1,0,0,8.83,1
+1,Internet,RoundTrip,11,39,7,Sat,AKLKUL,Malaysia,1,0,0,8.83,0
+3,Internet,RoundTrip,174,17,3,Wed,AKLKUL,New Zealand,1,0,0,8.83,0
+2,Mobile,RoundTrip,162,18,4,Thu,AKLKUL,Malaysia,0,0,0,8.83,1
+2,Internet,OneWay,139,1,8,Fri,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,19,93,3,Mon,AKLKUL,New Zealand,1,1,1,8.83,0
+1,Internet,RoundTrip,110,18,15,Thu,AKLKUL,New Zealand,0,0,0,8.83,0
+2,Internet,RoundTrip,9,54,7,Thu,AKLKUL,Malaysia,1,0,1,8.83,1
+1,Mobile,RoundTrip,47,28,15,Sun,AKLKUL,Malaysia,1,0,0,8.83,0
+6,Mobile,RoundTrip,349,21,5,Sun,AKLKUL,Malaysia,1,0,0,8.83,0
+2,Internet,RoundTrip,109,21,17,Sun,AKLKUL,Malaysia,1,1,1,8.83,1
+1,Internet,RoundTrip,0,23,5,Tue,AKLKUL,Malaysia,0,0,0,8.83,0
+4,Internet,RoundTrip,38,21,0,Mon,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,58,28,8,Wed,AKLKUL,New Zealand,0,0,1,8.83,0
+4,Internet,RoundTrip,192,20,6,Sun,AKLKUL,Malaysia,1,0,1,8.83,1
+4,Mobile,RoundTrip,210,21,4,Sun,AKLKUL,Malaysia,1,0,0,8.83,0
+2,Internet,RoundTrip,326,22,12,Sun,AKLKUL,Malaysia,0,0,0,8.83,1
+2,Internet,RoundTrip,13,17,10,Tue,AKLKUL,Malaysia,1,1,1,8.83,0
+2,Internet,RoundTrip,240,64,14,Wed,AKLKUL,Malaysia,0,1,0,8.83,0
+1,Internet,RoundTrip,39,21,7,Mon,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Internet,RoundTrip,23,35,8,Sun,AKLKUL,Indonesia,0,0,0,8.83,0
+5,Internet,OneWay,198,34,14,Mon,AKLKUL,Hong Kong,1,1,1,8.83,0
+1,Internet,RoundTrip,75,30,10,Tue,AKLKUL,Thailand,1,0,0,8.83,0
+1,Internet,RoundTrip,54,20,8,Mon,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,32,41,1,Sun,AKLKUL,New Zealand,0,0,0,8.83,0
+2,Internet,RoundTrip,101,34,17,Thu,AKLKUL,Switzerland,1,0,0,8.83,0
+2,Internet,RoundTrip,294,49,16,Tue,AKLKUL,Japan,1,0,0,8.83,0
+1,Internet,RoundTrip,304,59,0,Wed,AKLKUL,New Zealand,1,0,1,8.83,0
+3,Internet,RoundTrip,32,23,15,Wed,AKLKUL,Malaysia,1,0,0,8.83,1
+2,Mobile,RoundTrip,160,24,22,Wed,AKLKUL,New Zealand,1,0,0,8.83,0
+3,Internet,RoundTrip,363,18,2,Mon,AKLKUL,Malaysia,1,1,1,8.83,0
+1,Internet,RoundTrip,214,31,9,Sun,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,162,18,11,Tue,AKLKUL,Malaysia,1,0,0,8.83,1
+5,Internet,RoundTrip,97,21,10,Wed,AKLKUL,Malaysia,1,1,0,8.83,1
+2,Internet,RoundTrip,71,30,6,Mon,AKLKUL,New Zealand,1,1,0,8.83,1
+2,Internet,RoundTrip,231,17,15,Tue,AKLKUL,Malaysia,1,1,1,8.83,0
+2,Internet,RoundTrip,163,35,12,Fri,AKLKUL,Malaysia,1,0,1,8.83,1
+1,Internet,RoundTrip,62,21,3,Thu,AKLKUL,Malaysia,1,1,0,8.83,0
+1,Internet,RoundTrip,1,18,5,Tue,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,314,19,8,Wed,AKLKUL,New Zealand,0,1,0,8.83,0
+2,Internet,RoundTrip,178,69,9,Fri,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,253,107,10,Wed,AKLKUL,New Zealand,0,0,0,8.83,0
+2,Internet,RoundTrip,81,43,6,Thu,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,30,85,15,Fri,AKLKUL,Malaysia,1,0,0,8.83,1
+1,Internet,RoundTrip,120,20,12,Fri,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,25,19,3,Wed,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,62,30,7,Thu,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,58,17,6,Wed,AKLKUL,New Zealand,1,1,0,8.83,0
+4,Internet,RoundTrip,268,18,13,Tue,AKLKUL,Philippines,1,0,1,8.83,0
+2,Internet,RoundTrip,199,27,8,Fri,AKLKUL,New Zealand,1,0,0,8.83,0
+5,Internet,RoundTrip,206,17,13,Sun,AKLKUL,Malaysia,1,0,0,8.83,0
+2,Internet,RoundTrip,159,29,21,Sun,AKLKUL,New Zealand,1,1,1,8.83,0
+1,Internet,RoundTrip,171,35,8,Wed,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,6,18,6,Tue,AKLKUL,Malaysia,1,0,1,8.83,1
+1,Internet,RoundTrip,269,29,9,Sun,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,13,22,17,Sat,AKLKUL,United Kingdom,1,0,1,8.83,0
+1,Internet,RoundTrip,301,121,15,Sun,AKLKUL,Malaysia,0,1,0,8.83,0
+1,Internet,RoundTrip,301,34,0,Sat,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,72,26,13,Wed,AKLKUL,Malaysia,1,0,1,8.83,0
+2,Internet,RoundTrip,224,18,16,Tue,AKLKUL,Malaysia,1,0,1,8.83,0
+3,Internet,RoundTrip,269,17,1,Fri,AKLKUL,Malaysia,1,1,1,8.83,0
+2,Internet,RoundTrip,246,24,4,Sat,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Mobile,RoundTrip,44,19,7,Sun,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Mobile,RoundTrip,32,60,2,Wed,AKLKUL,Malaysia,1,0,0,8.83,0
+2,Internet,RoundTrip,198,20,5,Mon,AKLKUL,Malaysia,1,0,0,8.83,0
+2,Internet,RoundTrip,94,22,15,Fri,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,265,59,10,Tue,AKLKUL,New Zealand,1,0,0,8.83,0
+2,Internet,RoundTrip,229,20,7,Thu,AKLKUL,New Zealand,1,0,1,8.83,0
+2,Internet,RoundTrip,282,18,16,Sat,AKLKUL,Malaysia,1,1,0,8.83,0
+1,Internet,RoundTrip,32,48,12,Mon,AKLKUL,Sri Lanka,0,0,0,8.83,0
+2,Internet,RoundTrip,113,47,17,Sat,AKLKUL,Malaysia,1,1,1,8.83,0
+1,Mobile,RoundTrip,96,20,3,Tue,AKLKUL,New Zealand,1,1,1,8.83,0
+1,Internet,RoundTrip,66,203,7,Wed,AKLKUL,Malaysia,0,0,0,8.83,1
+1,Internet,RoundTrip,49,40,17,Fri,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Internet,RoundTrip,3,49,11,Tue,AKLKUL,New Zealand,1,1,1,8.83,0
+2,Internet,RoundTrip,254,30,8,Fri,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,192,61,3,Mon,AKLKUL,New Zealand,0,1,1,8.83,0
+1,Internet,RoundTrip,186,19,15,Sun,AKLKUL,Malaysia,0,0,0,8.83,1
+2,Internet,RoundTrip,296,37,6,Sat,AKLKUL,New Zealand,1,0,1,8.83,0
+2,Internet,RoundTrip,74,31,7,Wed,AKLKUL,Malaysia,1,1,0,8.83,0
+1,Internet,RoundTrip,283,56,9,Mon,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,29,48,12,Fri,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,8,188,6,Sun,AKLKUL,New Zealand,1,1,0,8.83,0
+1,Mobile,RoundTrip,55,20,7,Sat,AKLKUL,Malaysia,1,1,1,8.83,0
+1,Internet,RoundTrip,231,89,11,Sun,AKLKUL,Malaysia,0,0,1,8.83,0
+2,Internet,RoundTrip,250,30,12,Wed,AKLKUL,Singapore,1,1,1,8.83,1
+2,Internet,RoundTrip,132,19,8,Mon,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,123,78,15,Fri,AKLKUL,Germany,1,0,0,8.83,0
+2,Internet,RoundTrip,54,209,12,Wed,AKLKUL,Malaysia,1,0,0,8.83,0
+2,Internet,RoundTrip,156,22,8,Wed,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,26,126,7,Tue,AKLKUL,Japan,1,0,0,8.83,0
+1,Internet,RoundTrip,285,20,14,Wed,AKLKUL,Malaysia,1,1,0,8.83,1
+5,Internet,RoundTrip,343,43,4,Thu,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,218,27,6,Mon,AKLKUL,Malaysia,0,0,1,8.83,0
+2,Internet,RoundTrip,347,21,4,Mon,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,363,31,16,Sun,AKLKUL,Malaysia,1,0,1,8.83,0
+4,Internet,RoundTrip,346,35,9,Wed,AKLKUL,New Zealand,1,1,0,8.83,0
+1,Internet,RoundTrip,61,41,16,Sun,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,87,23,8,Tue,AKLKUL,New Zealand,0,1,1,8.83,0
+1,Internet,RoundTrip,352,20,1,Sun,AKLKUL,Malaysia,1,1,1,8.83,0
+1,Internet,RoundTrip,77,35,7,Mon,AKLKUL,Malaysia,0,0,1,8.83,0
+2,Internet,RoundTrip,255,33,10,Sat,AKLKUL,Malaysia,1,0,0,8.83,0
+2,Internet,RoundTrip,139,21,17,Wed,AKLKUL,France,0,0,0,8.83,1
+1,Internet,RoundTrip,280,80,8,Mon,AKLKUL,Malaysia,1,0,0,8.83,0
+2,Internet,RoundTrip,123,29,21,Thu,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Internet,RoundTrip,11,30,5,Mon,AKLKUL,Malaysia,0,0,0,8.83,0
+6,Internet,RoundTrip,23,17,12,Tue,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,269,20,6,Tue,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,14,200,19,Fri,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,267,91,7,Tue,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,213,28,20,Tue,AKLKUL,Germany,1,0,0,8.83,0
+1,Internet,RoundTrip,237,21,5,Wed,AKLKUL,United Kingdom,0,0,0,8.83,1
+1,Internet,RoundTrip,191,17,14,Wed,AKLKUL,Croatia,0,0,0,8.83,0
+1,Internet,RoundTrip,10,61,9,Fri,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,244,30,3,Wed,AKLKUL,Malaysia,1,0,1,8.83,1
+2,Internet,RoundTrip,224,18,15,Sun,AKLKUL,Germany,0,0,0,8.83,0
+3,Internet,RoundTrip,109,20,4,Tue,AKLKUL,Singapore,1,0,1,8.83,0
+2,Internet,RoundTrip,265,37,10,Thu,AKLKUL,New Zealand,1,0,0,8.83,0
+2,Internet,RoundTrip,75,21,9,Sat,AKLKUL,Malaysia,0,0,0,8.83,1
+1,Internet,RoundTrip,119,21,22,Sun,AKLKUL,Malaysia,0,1,0,8.83,0
+1,Internet,RoundTrip,50,17,10,Wed,AKLKUL,Malaysia,1,1,1,8.83,1
+1,Internet,RoundTrip,130,28,22,Tue,AKLKUL,New Zealand,1,1,1,8.83,0
+1,Internet,RoundTrip,30,85,15,Fri,AKLKUL,Malaysia,1,0,0,8.83,1
+1,Internet,RoundTrip,153,20,13,Wed,AKLKUL,Philippines,0,0,0,8.83,0
+2,Internet,RoundTrip,74,22,13,Wed,AKLKUL,Malaysia,1,1,1,8.83,0
+1,Internet,RoundTrip,27,62,13,Tue,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Mobile,RoundTrip,121,19,10,Tue,AKLKUL,Malaysia,1,0,0,8.83,1
+1,Internet,RoundTrip,18,27,5,Wed,AKLKUL,New Zealand,1,1,1,8.83,0
+1,Internet,RoundTrip,293,44,2,Wed,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Internet,RoundTrip,207,78,15,Fri,AKLKUL,Malaysia,1,1,1,8.83,0
+1,Mobile,RoundTrip,280,35,2,Sun,AKLKUL,Malaysia,1,1,1,8.83,1
+2,Internet,RoundTrip,82,18,11,Tue,AKLKUL,New Zealand,0,0,1,8.83,0
+1,Internet,RoundTrip,86,29,3,Fri,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Internet,RoundTrip,252,25,9,Tue,AKLKUL,Malaysia,0,0,0,8.83,1
+1,Internet,RoundTrip,40,17,20,Fri,AKLKUL,United Kingdom,1,0,1,8.83,0
+5,Internet,RoundTrip,81,17,14,Thu,AKLKUL,Malaysia,1,1,1,8.83,0
+1,Internet,RoundTrip,11,30,6,Tue,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,254,60,20,Tue,AKLKUL,United Kingdom,0,0,0,8.83,0
+1,Internet,RoundTrip,60,18,9,Mon,AKLKUL,Malaysia,1,0,1,8.83,1
+2,Internet,RoundTrip,8,25,6,Sat,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,7,68,5,Mon,AKLKUL,Malaysia,1,0,1,8.83,0
+3,Internet,RoundTrip,92,34,11,Mon,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,77,31,1,Wed,AKLKUL,New Zealand,1,0,0,8.83,0
+2,Internet,RoundTrip,358,27,7,Sat,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,42,17,11,Sat,AKLKUL,New Zealand,0,0,1,8.83,0
+5,Internet,RoundTrip,301,34,10,Sun,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Mobile,RoundTrip,269,20,6,Sun,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Internet,RoundTrip,161,56,10,Fri,AKLKUL,New Zealand,1,0,1,8.83,0
+2,Internet,RoundTrip,182,31,6,Mon,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,27,20,8,Sat,AKLKUL,Malaysia,1,1,0,8.83,0
+4,Mobile,RoundTrip,292,22,5,Wed,AKLKUL,Malaysia,1,0,1,8.83,0
+2,Internet,RoundTrip,35,255,1,Wed,AKLKUL,New Zealand,1,0,0,8.83,1
+2,Internet,RoundTrip,95,26,7,Fri,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,34,28,8,Sat,AKLKUL,Malaysia,1,0,0,8.83,0
+2,Internet,RoundTrip,229,23,23,Wed,AKLKUL,South Korea,0,0,0,8.83,0
+2,Internet,RoundTrip,73,17,15,Sun,AKLKUL,Malaysia,1,0,0,8.83,1
+1,Internet,RoundTrip,159,20,15,Sun,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,83,56,4,Tue,AKLKUL,New Zealand,1,0,1,8.83,0
+2,Internet,RoundTrip,363,18,0,Sun,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,56,21,13,Mon,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Internet,RoundTrip,41,41,15,Mon,AKLKUL,Malaysia,1,1,0,8.83,0
+2,Internet,RoundTrip,40,63,9,Mon,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,5,28,9,Mon,AKLKUL,New Zealand,1,0,1,8.83,1
+2,Mobile,RoundTrip,79,37,11,Sun,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Mobile,RoundTrip,94,64,9,Sun,AKLKUL,Malaysia,1,1,0,8.83,0
+1,Internet,RoundTrip,282,26,1,Sun,AKLKUL,New Zealand,1,0,1,8.83,0
+2,Internet,RoundTrip,9,41,11,Mon,AKLKUL,Malaysia,1,0,0,8.83,1
+1,Internet,RoundTrip,28,17,23,Fri,AKLKUL,United Kingdom,1,0,0,8.83,0
+1,Internet,RoundTrip,61,83,2,Wed,AKLKUL,Malaysia,1,1,1,8.83,1
+1,Internet,RoundTrip,82,21,0,Tue,AKLKUL,New Zealand,0,0,0,8.83,0
+3,Internet,RoundTrip,122,19,13,Mon,AKLKUL,Malaysia,1,1,0,8.83,0
+2,Internet,RoundTrip,203,28,11,Fri,AKLKUL,New Zealand,1,0,1,8.83,0
+2,Internet,RoundTrip,321,80,2,Thu,AKLKUL,New Zealand,1,0,0,8.83,0
+3,Internet,RoundTrip,259,21,9,Sat,AKLKUL,New Zealand,1,0,1,8.83,0
+7,Internet,RoundTrip,321,17,1,Tue,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,83,92,6,Sun,AKLKUL,New Zealand,1,0,0,8.83,0
+2,Internet,RoundTrip,46,46,10,Mon,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,107,18,1,Thu,AKLKUL,United States,0,0,0,8.83,0
+2,Internet,RoundTrip,186,20,17,Sat,AKLKUL,Malaysia,1,1,1,8.83,1
+3,Internet,RoundTrip,109,20,4,Tue,AKLKUL,Singapore,1,0,1,8.83,0
+1,Internet,RoundTrip,298,118,17,Sun,AKLKUL,United Kingdom,0,0,0,8.83,0
+2,Internet,RoundTrip,133,19,17,Wed,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,16,30,6,Sat,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,58,21,4,Sat,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,286,21,6,Sat,AKLKUL,Malaysia,1,0,0,8.83,0
+2,Internet,RoundTrip,349,17,17,Sun,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,97,23,6,Sun,AKLKUL,Malaysia,1,0,1,8.83,1
+4,Internet,RoundTrip,393,17,23,Mon,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,17,79,7,Thu,AKLKUL,Malaysia,1,0,1,8.83,1
+1,Internet,RoundTrip,58,21,9,Tue,AKLKUL,New Zealand,1,0,0,8.83,1
+1,Mobile,RoundTrip,225,107,5,Mon,AKLKUL,New Zealand,1,1,0,8.83,0
+1,Internet,RoundTrip,125,181,13,Mon,AKLKUL,Malaysia,1,1,0,8.83,1
+1,Internet,RoundTrip,7,20,5,Mon,AKLKUL,Malaysia,1,0,0,8.83,1
+3,Internet,RoundTrip,222,17,2,Wed,AKLKUL,Malaysia,1,1,0,8.83,0
+2,Internet,RoundTrip,17,90,7,Wed,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,337,26,1,Mon,AKLKUL,France,0,0,1,8.83,0
+2,Internet,RoundTrip,408,22,13,Wed,AKLKUL,Vietnam,0,0,0,8.83,0
+1,Internet,RoundTrip,35,21,7,Mon,AKLKUL,New Zealand,1,0,1,8.83,0
+2,Internet,RoundTrip,162,18,8,Fri,AKLKUL,Malaysia,1,1,1,8.83,0
+2,Mobile,RoundTrip,52,28,14,Wed,AKLKUL,Malaysia,1,1,1,8.83,0
+2,Internet,RoundTrip,329,25,15,Sat,AKLKUL,United States,1,1,1,8.83,1
+2,Internet,RoundTrip,64,20,17,Fri,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,32,18,10,Thu,AKLKUL,New Zealand,1,0,0,8.83,1
+1,Internet,RoundTrip,46,23,9,Fri,AKLKUL,Malaysia,1,0,0,8.83,0
+2,Internet,RoundTrip,89,21,14,Wed,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,125,181,13,Mon,AKLKUL,Malaysia,1,1,0,8.83,1
+3,Internet,RoundTrip,71,18,8,Tue,AKLKUL,New Zealand,1,0,1,8.83,1
+1,Mobile,RoundTrip,174,29,6,Fri,AKLKUL,New Zealand,1,0,1,8.83,0
+2,Internet,RoundTrip,66,18,4,Tue,AKLKUL,Malaysia,0,0,1,8.83,1
+1,Mobile,RoundTrip,94,92,8,Sun,AKLKUL,Malaysia,1,0,0,8.83,0
+2,Internet,RoundTrip,42,21,9,Sun,AKLKUL,Laos,0,0,0,8.83,0
+5,Internet,RoundTrip,145,47,11,Wed,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,OneWay,27,1,7,Tue,AKLKUL,New Zealand,1,0,0,8.83,0
+9,Internet,RoundTrip,164,17,7,Fri,AKLKUL,Malaysia,1,0,0,8.83,0
+2,Internet,RoundTrip,235,25,0,Sun,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Mobile,RoundTrip,34,76,1,Sat,AKLKUL,New Zealand,1,0,0,8.83,0
+2,Mobile,RoundTrip,74,19,9,Sat,AKLKUL,Malaysia,0,0,0,8.83,0
+4,Mobile,RoundTrip,74,27,9,Wed,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,3,92,6,Mon,AKLKUL,New Zealand,1,0,0,8.83,0
+2,Internet,RoundTrip,203,22,2,Fri,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Mobile,RoundTrip,194,43,9,Tue,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Mobile,RoundTrip,155,24,23,Mon,AKLKUL,Hungary,0,0,1,8.83,0
+1,Internet,RoundTrip,249,94,2,Fri,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Mobile,RoundTrip,54,29,8,Sun,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,414,305,5,Tue,AKLKUL,Malaysia,0,1,0,8.83,0
+1,Internet,RoundTrip,377,19,3,Fri,AKLKUL,Hong Kong,0,0,0,8.83,0
+1,Internet,RoundTrip,402,31,9,Mon,AKLKUL,New Zealand,0,0,1,8.83,0
+1,Internet,RoundTrip,131,88,17,Tue,AKLKUL,Malaysia,1,1,0,8.83,0
+1,Internet,RoundTrip,43,30,10,Tue,AKLKUL,New Zealand,1,0,1,8.83,0
+2,Internet,RoundTrip,98,20,16,Wed,AKLKUL,Malaysia,1,0,0,8.83,0
+2,Internet,RoundTrip,411,23,6,Tue,AKLKUL,Malaysia,1,1,1,8.83,0
+2,Internet,RoundTrip,291,17,3,Sat,AKLKUL,Malaysia,0,0,0,8.83,0
+2,Internet,RoundTrip,318,47,4,Mon,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Internet,RoundTrip,136,30,17,Tue,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,152,17,2,Wed,AKLKUL,Malaysia,1,0,1,8.83,0
+2,Internet,RoundTrip,287,20,13,Wed,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,279,18,7,Sun,AKLKUL,Malaysia,1,1,0,8.83,0
+1,Internet,RoundTrip,63,278,14,Wed,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Internet,RoundTrip,68,26,14,Tue,AKLKUL,Malaysia,1,0,1,8.83,1
+2,Internet,RoundTrip,277,21,3,Tue,AKLKUL,New Zealand,1,1,0,8.83,0
+2,Internet,RoundTrip,331,17,13,Wed,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,OneWay,12,1,19,Wed,AKLKUL,New Zealand,1,0,0,8.83,0
+2,Internet,RoundTrip,246,149,11,Wed,AKLKUL,United Kingdom,0,0,0,8.83,0
+1,Internet,RoundTrip,359,20,7,Tue,AKLKUL,Malaysia,0,0,1,8.83,0
+1,Internet,RoundTrip,318,23,2,Sun,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Internet,RoundTrip,26,39,6,Fri,AKLKUL,Malaysia,1,0,1,8.83,0
+2,Internet,RoundTrip,95,86,13,Mon,AKLKUL,Malaysia,1,1,1,8.83,0
+3,Internet,RoundTrip,57,30,15,Mon,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,70,22,5,Sun,AKLKUL,New Zealand,1,0,1,8.83,0
+2,Internet,RoundTrip,156,63,15,Fri,AKLKUL,Portugal,0,0,0,8.83,0
+2,Internet,RoundTrip,67,25,10,Fri,AKLKUL,Czech Republic,1,0,0,8.83,0
+2,Internet,RoundTrip,146,22,22,Fri,AKLKUL,New Zealand,0,1,0,8.83,0
+1,Mobile,RoundTrip,336,17,20,Sat,AKLKUL,South Korea,0,0,0,8.83,0
+1,Internet,RoundTrip,26,31,14,Sun,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,162,22,10,Thu,AKLKUL,New Zealand,1,0,0,8.83,0
+2,Internet,RoundTrip,207,27,4,Tue,AKLKUL,New Zealand,1,0,1,8.83,0
+6,Internet,RoundTrip,219,17,17,Thu,AKLKUL,Malaysia,1,1,1,8.83,1
+2,Internet,RoundTrip,9,20,2,Sun,AKLKUL,Netherlands,1,0,1,8.83,0
+1,Internet,RoundTrip,82,17,9,Sun,AKLKUL,Malaysia,0,0,1,8.83,0
+1,Internet,RoundTrip,60,20,5,Wed,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,66,22,17,Thu,AKLKUL,Singapore,1,0,0,8.83,0
+1,Internet,RoundTrip,258,23,0,Sat,AKLKUL,New Zealand,1,0,0,8.83,0
+3,Internet,RoundTrip,168,21,1,Tue,AKLKUL,Malaysia,1,0,0,8.83,1
+2,Internet,RoundTrip,403,31,1,Fri,AKLKUL,New Zealand,0,0,1,8.83,0
+3,Internet,RoundTrip,320,29,0,Wed,AKLKUL,Malaysia,1,0,1,8.83,1
+1,Internet,RoundTrip,212,78,5,Fri,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,75,44,2,Wed,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,107,49,9,Tue,AKLKUL,New Zealand,1,0,0,8.83,0
+4,Internet,RoundTrip,70,89,7,Sat,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Mobile,RoundTrip,20,17,1,Tue,AKLKUL,Philippines,1,1,0,8.83,0
+1,Internet,RoundTrip,292,20,6,Sun,AKLKUL,New Zealand,1,0,0,8.83,1
+1,Internet,RoundTrip,194,37,8,Tue,AKLKUL,Malaysia,1,1,1,8.83,1
+1,Internet,RoundTrip,40,35,7,Tue,AKLKUL,Malaysia,1,0,1,8.83,1
+3,Internet,RoundTrip,46,88,7,Wed,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Internet,RoundTrip,146,21,6,Sun,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,24,18,12,Sun,AKLKUL,Malaysia,0,0,0,8.83,0
+2,Internet,RoundTrip,204,20,13,Fri,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Internet,RoundTrip,82,23,11,Wed,AKLKUL,New Zealand,0,0,1,8.83,0
+1,Internet,RoundTrip,20,72,14,Sat,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,40,77,4,Wed,AKLKUL,New Zealand,0,0,0,8.83,0
+4,Internet,RoundTrip,5,31,8,Wed,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,98,29,9,Thu,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Internet,RoundTrip,14,18,11,Wed,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,229,177,17,Thu,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Internet,RoundTrip,36,165,12,Mon,AKLKUL,New Zealand,0,0,0,8.83,0
+2,Mobile,RoundTrip,164,37,19,Fri,AKLKUL,Ireland,1,0,1,8.83,0
+2,Internet,RoundTrip,27,45,7,Mon,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,21,32,9,Thu,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,73,39,11,Sat,AKLKUL,New Zealand,1,1,0,8.83,0
+2,Internet,RoundTrip,177,89,11,Sun,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,OneWay,29,1,2,Sun,AKLKUL,New Zealand,1,0,0,8.83,0
+4,Internet,RoundTrip,295,18,9,Mon,AKLKUL,Malaysia,0,0,1,8.83,0
+1,Internet,RoundTrip,28,37,21,Tue,AKLKUL,New Zealand,1,1,1,8.83,0
+3,Internet,RoundTrip,192,22,9,Mon,AKLKUL,New Zealand,0,0,0,8.83,0
+2,Mobile,RoundTrip,144,41,4,Sun,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,22,20,7,Thu,AKLKUL,Malaysia,1,1,1,8.83,0
+2,Internet,RoundTrip,93,19,12,Wed,AKLKUL,Malaysia,0,0,1,8.83,0
+1,Internet,RoundTrip,25,28,8,Mon,AKLKUL,Malaysia,1,1,1,8.83,1
+1,Internet,RoundTrip,70,183,2,Wed,AKLKUL,Malaysia,1,0,0,8.83,1
+1,Internet,RoundTrip,89,28,0,Fri,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,33,17,4,Mon,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Mobile,RoundTrip,116,25,6,Mon,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Internet,RoundTrip,348,36,4,Wed,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Internet,RoundTrip,243,162,10,Mon,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,204,21,9,Thu,AKLKUL,India,0,0,0,8.83,0
+1,Internet,RoundTrip,225,28,8,Mon,AKLKUL,Malaysia,0,0,0,8.83,0
+6,Internet,RoundTrip,39,21,8,Tue,AKLKUL,Malaysia,1,0,0,8.83,1
+3,Internet,RoundTrip,145,34,4,Fri,AKLKUL,New Zealand,1,0,1,8.83,0
+2,Internet,RoundTrip,151,28,14,Thu,AKLKUL,Netherlands,0,0,0,8.83,0
+1,Mobile,RoundTrip,38,71,9,Thu,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,36,29,16,Sat,AKLKUL,United States,0,0,0,8.83,0
+1,Internet,RoundTrip,68,19,4,Tue,AKLKUL,United Kingdom,1,0,0,8.83,0
+1,Internet,RoundTrip,215,91,9,Sun,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,45,36,6,Fri,AKLKUL,Singapore,0,0,0,8.83,0
+3,Internet,RoundTrip,206,28,15,Mon,AKLKUL,Malaysia,1,1,0,8.83,0
+1,Internet,RoundTrip,27,28,9,Thu,AKLKUL,Malaysia,1,1,1,8.83,1
+1,Internet,RoundTrip,37,25,1,Tue,AKLKUL,New Zealand,1,0,0,8.83,0
+6,Internet,RoundTrip,277,22,4,Thu,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,144,30,7,Sat,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,79,32,7,Fri,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,79,90,4,Wed,AKLKUL,Malaysia,1,0,1,8.83,1
+2,Internet,RoundTrip,86,18,8,Thu,AKLKUL,Malaysia,1,1,1,8.83,1
+3,Internet,RoundTrip,163,21,3,Sat,AKLKUL,New Zealand,0,0,0,8.83,0
+2,Mobile,RoundTrip,9,26,8,Fri,AKLKUL,Thailand,1,0,0,8.83,0
+1,Internet,RoundTrip,97,80,2,Sat,AKLKUL,New Zealand,1,0,1,8.83,0
+2,Internet,RoundTrip,28,22,16,Wed,AKLKUL,Malaysia,1,0,0,8.83,0
+3,Internet,RoundTrip,17,109,15,Tue,AKLKUL,Malaysia,1,1,1,8.83,0
+2,Internet,RoundTrip,102,37,9,Wed,AKLKUL,Cyprus,1,0,1,8.83,0
+2,Internet,RoundTrip,121,27,5,Wed,AKLKUL,New Zealand,1,1,1,8.83,0
+2,Internet,RoundTrip,316,35,7,Sat,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Mobile,RoundTrip,2,21,15,Fri,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Mobile,RoundTrip,23,78,8,Sun,AKLKUL,Malaysia,1,0,1,8.83,0
+2,Internet,RoundTrip,188,27,15,Wed,AKLKUL,Malaysia,1,0,1,8.83,1
+2,Internet,RoundTrip,199,35,14,Sun,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Internet,RoundTrip,75,30,6,Wed,AKLKUL,Malaysia,1,1,0,8.83,1
+1,Internet,RoundTrip,242,22,0,Sun,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,97,54,10,Sat,AKLKUL,New Zealand,0,0,1,8.83,0
+1,Internet,RoundTrip,11,22,0,Tue,AKLKUL,New Zealand,1,0,0,8.83,0
+3,Internet,RoundTrip,363,17,16,Sun,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,266,79,7,Sun,AKLKUL,New Zealand,1,1,0,8.83,0
+1,Internet,RoundTrip,237,49,9,Sun,AKLKUL,New Zealand,1,1,1,8.83,1
+1,Internet,RoundTrip,116,22,10,Tue,AKLKUL,New Zealand,1,0,1,8.83,0
+2,Internet,RoundTrip,49,52,9,Sun,AKLKUL,Laos,1,0,0,8.83,0
+1,Mobile,RoundTrip,377,35,10,Sun,AKLKUL,Malaysia,1,0,0,8.83,1
+1,Internet,RoundTrip,1,39,6,Fri,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,337,41,6,Sat,AKLKUL,New Zealand,0,1,1,8.83,0
+1,Internet,RoundTrip,63,19,8,Mon,AKLKUL,Malaysia,1,0,0,8.83,1
+2,Internet,RoundTrip,292,89,9,Mon,AKLKUL,New Zealand,1,0,1,8.83,0
+3,Internet,RoundTrip,233,29,8,Wed,AKLKUL,Malaysia,1,1,0,8.83,0
+1,Internet,RoundTrip,60,17,17,Tue,AKLKUL,Malaysia,0,0,0,8.83,1
+1,Internet,RoundTrip,105,21,8,Tue,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,16,18,6,Sat,AKLKUL,Malaysia,0,0,0,8.83,0
+2,Internet,RoundTrip,114,18,0,Wed,AKLKUL,Malaysia,1,1,1,8.83,1
+2,Internet,RoundTrip,282,18,3,Wed,AKLKUL,Malaysia,1,1,1,8.83,1
+1,Internet,RoundTrip,2,27,14,Fri,AKLKUL,Saudi Arabia,1,1,0,8.83,0
+1,Internet,RoundTrip,153,24,7,Sat,AKLKUL,New Zealand,0,0,1,8.83,0
+1,Internet,RoundTrip,73,87,0,Sat,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,317,30,14,Wed,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,83,140,10,Sun,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Internet,RoundTrip,76,85,0,Sun,AKLKUL,New Zealand,0,0,0,8.83,1
+2,Internet,RoundTrip,345,20,20,Fri,AKLKUL,New Zealand,0,0,0,8.83,0
+2,Internet,RoundTrip,218,38,9,Wed,AKLKUL,India,1,0,1,8.83,0
+1,Internet,RoundTrip,138,31,14,Wed,AKLKUL,Singapore,0,0,0,8.83,0
+1,Internet,RoundTrip,32,42,17,Thu,AKLKUL,Malaysia,1,0,0,8.83,0
+2,Internet,RoundTrip,380,19,13,Mon,AKLKUL,Malaysia,1,1,1,8.83,0
+1,Internet,RoundTrip,108,17,4,Sun,AKLKUL,New Zealand,0,0,0,8.83,0
+5,Internet,RoundTrip,112,31,2,Thu,AKLKUL,New Zealand,1,0,0,8.83,0
+3,Internet,RoundTrip,163,28,21,Thu,AKLKUL,New Zealand,1,1,1,8.83,0
+1,Internet,RoundTrip,290,42,1,Sat,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,263,58,4,Sun,AKLKUL,Malaysia,0,1,0,8.83,0
+1,Mobile,RoundTrip,22,17,15,Sun,AKLKUL,Malaysia,1,0,0,8.83,0
+2,Internet,RoundTrip,386,25,3,Mon,AKLKUL,Malaysia,1,1,1,8.83,1
+1,Internet,RoundTrip,330,21,8,Sun,AKLKUL,New Zealand,1,0,1,8.83,0
+4,Internet,RoundTrip,31,29,5,Mon,AKLKUL,United Kingdom,1,1,1,8.83,0
+1,Internet,RoundTrip,352,22,5,Sun,AKLKUL,Malaysia,1,1,1,8.83,1
+1,Internet,RoundTrip,34,42,9,Mon,AKLKUL,New Zealand,1,0,0,8.83,0
+3,Internet,RoundTrip,52,21,15,Thu,AKLKUL,Malaysia,1,1,1,8.83,0
+2,Internet,RoundTrip,394,18,19,Sat,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Mobile,RoundTrip,98,107,4,Tue,AKLKUL,Thailand,1,0,0,8.83,0
+1,Internet,RoundTrip,113,18,8,Tue,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,8,17,1,Wed,AKLKUL,Malaysia,1,1,1,8.83,1
+2,Internet,RoundTrip,40,86,1,Tue,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Internet,RoundTrip,105,17,15,Wed,AKLKUL,Malaysia,1,0,1,8.83,1
+1,Internet,RoundTrip,32,25,13,Mon,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Mobile,RoundTrip,30,44,9,Sat,AKLKUL,Malaysia,1,1,0,8.83,1
+1,Internet,RoundTrip,90,24,8,Thu,AKLKUL,New Zealand,1,1,1,8.83,0
+2,Internet,RoundTrip,44,64,7,Sat,AKLKUL,New Zealand,1,0,0,8.83,0
+4,Internet,RoundTrip,292,22,4,Sat,AKLKUL,Malaysia,1,0,1,8.83,0
+2,Internet,RoundTrip,71,32,6,Mon,AKLKUL,Malaysia,1,0,0,8.83,0
+4,Internet,RoundTrip,153,25,5,Thu,AKLKUL,New Zealand,1,0,1,8.83,0
+2,Internet,RoundTrip,170,23,4,Sat,AKLKUL,Malaysia,1,1,1,8.83,0
+2,Mobile,RoundTrip,118,17,4,Fri,AKLKUL,Malaysia,0,0,0,8.83,1
+2,Mobile,RoundTrip,183,24,17,Sat,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,74,42,10,Wed,AKLKUL,New Zealand,1,0,0,8.83,0
+2,Internet,RoundTrip,65,88,1,Mon,AKLKUL,New Zealand,1,0,1,8.83,0
+2,Internet,RoundTrip,8,28,7,Sun,AKLKUL,New Zealand,0,0,0,8.83,0
+2,Internet,RoundTrip,55,78,7,Thu,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,98,20,5,Wed,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,233,29,8,Sun,AKLKUL,New Zealand,1,1,1,8.83,0
+2,Internet,RoundTrip,57,62,4,Sun,AKLKUL,Malaysia,0,0,0,8.83,0
+2,Internet,RoundTrip,380,19,9,Mon,AKLKUL,Japan,1,1,0,8.83,0
+2,Mobile,RoundTrip,209,27,2,Fri,AKLKUL,New Zealand,1,1,0,8.83,0
+2,Internet,RoundTrip,276,20,15,Thu,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Internet,RoundTrip,175,22,1,Sat,AKLKUL,New Zealand,1,0,1,8.83,0
+2,Internet,RoundTrip,63,66,5,Wed,AKLKUL,New Zealand,1,0,1,8.83,0
+3,Internet,RoundTrip,68,18,13,Thu,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,86,20,12,Thu,AKLKUL,Singapore,1,0,1,8.83,0
+4,Internet,RoundTrip,106,20,8,Thu,AKLKUL,Malaysia,1,1,1,8.83,1
+2,Internet,RoundTrip,235,19,9,Mon,AKLKUL,Malaysia,0,0,0,8.83,1
+1,Mobile,RoundTrip,226,33,5,Tue,AKLKUL,Malaysia,1,0,0,8.83,1
+1,Internet,RoundTrip,232,20,12,Thu,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Internet,RoundTrip,280,80,8,Mon,AKLKUL,Malaysia,1,0,0,8.83,0
+2,Internet,RoundTrip,186,21,10,Mon,AKLKUL,Malaysia,1,0,1,8.83,1
+1,Internet,RoundTrip,66,34,8,Sat,AKLKUL,New Zealand,1,0,1,8.83,0
+2,Internet,RoundTrip,50,19,5,Sun,AKLKUL,New Zealand,0,0,1,8.83,0
+2,Internet,RoundTrip,389,17,6,Fri,AKLKUL,Malaysia,0,0,0,8.83,1
+1,Internet,RoundTrip,302,56,10,Tue,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,8,30,0,Thu,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Internet,RoundTrip,108,24,9,Tue,AKLKUL,New Zealand,0,0,0,8.83,0
+2,Internet,RoundTrip,142,29,9,Wed,AKLKUL,New Zealand,1,1,1,8.83,0
+1,Internet,RoundTrip,116,27,7,Sun,AKLKUL,Malaysia,1,0,0,8.83,1
+3,Internet,RoundTrip,170,23,10,Sun,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,178,24,3,Mon,AKLKUL,New Zealand,1,1,1,8.83,0
+4,Internet,RoundTrip,316,17,2,Thu,AKLKUL,Malaysia,1,0,0,8.83,1
+2,Internet,RoundTrip,171,28,17,Mon,AKLKUL,Spain,1,0,0,8.83,0
+2,Internet,RoundTrip,372,24,5,Sun,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Mobile,RoundTrip,45,63,8,Fri,AKLKUL,New Zealand,1,0,1,8.83,0
+2,Internet,RoundTrip,215,19,15,Sun,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,131,184,5,Wed,AKLKUL,Malaysia,0,0,1,8.83,0
+2,Internet,RoundTrip,23,29,2,Thu,AKLKUL,New Zealand,1,1,1,8.83,0
+5,Internet,RoundTrip,393,17,1,Sun,AKLKUL,Malaysia,1,0,1,8.83,1
+1,Internet,RoundTrip,16,30,6,Sat,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,107,23,12,Sun,AKLKUL,Australia,1,0,1,8.83,1
+1,Internet,RoundTrip,19,76,4,Mon,AKLKUL,New Zealand,1,1,1,8.83,0
+1,Mobile,RoundTrip,133,44,9,Wed,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Internet,RoundTrip,119,21,6,Wed,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,228,31,11,Sun,AKLKUL,New Zealand,1,1,1,8.83,0
+1,Internet,RoundTrip,330,18,2,Thu,AKLKUL,Malaysia,1,0,1,8.83,1
+1,Internet,RoundTrip,18,50,10,Sat,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,48,22,19,Tue,AKLKUL,United Kingdom,1,0,0,8.83,0
+1,Internet,RoundTrip,122,18,16,Tue,AKLKUL,Malaysia,1,0,1,8.83,1
+1,Internet,RoundTrip,20,77,8,Fri,AKLKUL,New Zealand,1,1,1,8.83,0
+5,Internet,RoundTrip,40,36,23,Mon,AKLKUL,New Zealand,1,1,1,8.83,0
+2,Internet,RoundTrip,124,19,5,Fri,AKLKUL,New Zealand,1,0,1,8.83,0
+4,Internet,RoundTrip,98,17,4,Wed,AKLKUL,Malaysia,1,1,1,8.83,1
+2,Internet,RoundTrip,160,22,18,Thu,AKLKUL,New Zealand,1,0,1,8.83,0
+2,Internet,RoundTrip,126,21,12,Wed,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,208,22,3,Thu,AKLKUL,New Zealand,1,0,1,8.83,0
+2,Internet,RoundTrip,55,152,11,Wed,AKLKUL,New Zealand,0,0,0,8.83,0
+2,Internet,RoundTrip,40,53,3,Wed,AKLKUL,Malaysia,1,1,1,8.83,0
+1,Internet,RoundTrip,76,17,15,Thu,AKLKUL,Malaysia,1,0,1,8.83,1
+1,Internet,RoundTrip,5,291,13,Fri,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,11,60,19,Wed,AKLKUL,United Kingdom,1,1,1,8.83,0
+3,Internet,RoundTrip,205,30,3,Sun,AKLKUL,Malaysia,1,1,1,8.83,0
+1,Internet,RoundTrip,126,82,11,Tue,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,119,24,2,Fri,AKLKUL,Malaysia,0,0,0,8.83,0
+2,Internet,RoundTrip,255,17,5,Fri,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Internet,RoundTrip,143,63,8,Thu,AKLKUL,New Zealand,1,0,0,8.83,0
+2,Mobile,RoundTrip,18,329,4,Sun,AKLKUL,Malaysia,0,0,0,8.83,0
+2,Internet,RoundTrip,262,25,4,Wed,AKLKUL,New Zealand,1,0,1,8.83,0
+2,Internet,RoundTrip,291,23,6,Sun,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,168,28,6,Sat,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Internet,RoundTrip,368,17,6,Sun,AKLKUL,Malaysia,0,1,1,8.83,1
+1,Internet,RoundTrip,153,30,8,Sun,AKLKUL,New Zealand,0,0,1,8.83,0
+2,Internet,RoundTrip,38,26,14,Mon,AKLKUL,Malaysia,1,1,0,8.83,1
+1,Internet,RoundTrip,47,17,3,Sat,AKLKUL,Malaysia,1,0,0,8.83,1
+2,Internet,RoundTrip,100,20,22,Mon,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,83,110,23,Fri,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,242,23,5,Sat,AKLKUL,Malaysia,0,0,0,8.83,0
+2,Internet,RoundTrip,169,19,1,Thu,AKLKUL,Malaysia,1,1,0,8.83,0
+1,Internet,RoundTrip,236,21,7,Fri,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,62,30,7,Thu,AKLKUL,Malaysia,1,0,1,8.83,0
+2,Internet,RoundTrip,346,17,3,Sun,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Internet,RoundTrip,210,38,12,Mon,AKLKUL,Germany,1,1,1,8.83,0
+1,Internet,RoundTrip,14,33,11,Mon,AKLKUL,New Zealand,1,1,1,8.83,0
+4,Internet,RoundTrip,258,38,23,Tue,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Mobile,RoundTrip,48,21,11,Tue,AKLKUL,New Zealand,1,0,1,8.83,0
+2,Internet,RoundTrip,196,23,0,Thu,AKLKUL,New Zealand,0,0,0,8.83,0
+2,Internet,RoundTrip,78,36,2,Sun,AKLKUL,New Zealand,0,0,1,8.83,0
+1,Internet,RoundTrip,23,33,9,Tue,AKLKUL,Malaysia,1,0,1,8.83,0
+4,Internet,RoundTrip,281,17,0,Wed,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,229,17,8,Sat,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Internet,RoundTrip,88,18,7,Thu,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,192,17,1,Mon,AKLKUL,Malaysia,1,0,1,8.83,0
+2,Internet,RoundTrip,172,23,14,Sun,AKLKUL,Malaysia,0,0,0,8.83,1
+1,Internet,RoundTrip,30,63,2,Sun,AKLKUL,Malaysia,1,1,1,8.83,1
+1,Internet,RoundTrip,154,24,6,Tue,AKLKUL,Malaysia,1,1,0,8.83,0
+1,Internet,RoundTrip,12,35,15,Fri,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,35,22,7,Fri,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,201,75,10,Fri,AKLKUL,Italy,0,0,0,8.83,0
+5,Internet,RoundTrip,373,19,15,Tue,AKLKUL,Malaysia,0,1,0,8.83,0
+2,Mobile,RoundTrip,212,86,6,Tue,AKLKUL,New Zealand,1,1,0,8.83,0
+1,Internet,RoundTrip,32,18,4,Sat,AKLKUL,New Zealand,0,0,1,8.83,0
+2,Internet,RoundTrip,90,28,13,Wed,AKLKUL,Malaysia,1,1,1,8.83,0
+1,Internet,RoundTrip,60,26,8,Fri,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Internet,RoundTrip,28,30,8,Fri,AKLKUL,Vietnam,1,1,0,8.83,0
+1,Internet,RoundTrip,68,28,2,Thu,AKLKUL,New Zealand,0,0,0,8.83,1
+1,Internet,RoundTrip,238,130,17,Sat,AKLKUL,Malaysia,0,0,1,8.83,0
+2,Internet,RoundTrip,78,142,5,Sun,AKLKUL,Malaysia,1,0,0,8.83,0
+2,Internet,RoundTrip,259,25,8,Wed,AKLKUL,Malaysia,0,0,0,8.83,0
+2,Internet,RoundTrip,84,17,23,Tue,AKLKUL,New Zealand,1,0,0,8.83,0
+3,Internet,RoundTrip,641,46,6,Sun,AKLKUL,Malaysia,1,0,1,8.83,1
+1,Internet,RoundTrip,63,278,14,Wed,AKLKUL,Malaysia,0,0,0,8.83,0
+2,Internet,RoundTrip,179,47,6,Sat,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,19,42,4,Fri,AKLKUL,Malaysia,1,0,0,8.83,0
+3,Internet,RoundTrip,106,32,14,Tue,AKLKUL,Malaysia,0,0,0,8.83,1
+1,Internet,RoundTrip,73,20,6,Wed,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,11,92,4,Wed,AKLKUL,Saudi Arabia,0,0,0,8.83,0
+1,Internet,RoundTrip,116,63,4,Wed,AKLKUL,New Zealand,1,0,0,8.83,0
+2,Internet,RoundTrip,74,29,0,Fri,AKLKUL,Malaysia,1,1,1,8.83,0
+1,Internet,RoundTrip,73,39,11,Sat,AKLKUL,New Zealand,1,1,0,8.83,0
+1,Mobile,RoundTrip,61,31,1,Fri,AKLKUL,India,1,0,1,8.83,0
+1,Internet,RoundTrip,8,20,8,Fri,AKLKUL,Malaysia,1,0,0,8.83,0
+3,Internet,RoundTrip,233,21,12,Sat,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,20,17,20,Thu,AKLKUL,New Zealand,1,0,0,8.83,0
+2,Internet,RoundTrip,256,43,15,Mon,AKLKUL,Malaysia,0,0,0,8.83,1
+1,Internet,RoundTrip,27,29,8,Mon,AKLKUL,Malaysia,1,1,1,8.83,0
+2,Internet,RoundTrip,102,175,16,Sat,AKLKUL,United Kingdom,1,0,1,8.83,0
+1,Internet,RoundTrip,212,19,3,Thu,AKLKUL,Malaysia,1,0,1,8.83,0
+2,Internet,RoundTrip,87,17,15,Tue,AKLKUL,United Kingdom,0,0,0,8.83,0
+1,Mobile,RoundTrip,180,56,7,Mon,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,64,17,9,Thu,AKLKUL,Malaysia,1,1,0,8.83,1
+1,Internet,RoundTrip,165,87,4,Sat,AKLKUL,Malaysia,0,1,0,8.83,0
+2,Internet,RoundTrip,82,73,0,Sat,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Internet,RoundTrip,4,85,3,Tue,AKLKUL,Malaysia,1,1,1,8.83,0
+2,Internet,RoundTrip,110,29,11,Wed,AKLKUL,New Zealand,1,0,1,8.83,0
+4,Internet,RoundTrip,232,19,8,Tue,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Internet,RoundTrip,4,19,13,Sat,AKLKUL,Malaysia,1,0,1,8.83,1
+1,Mobile,RoundTrip,139,22,8,Sun,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Mobile,RoundTrip,27,90,6,Sat,AKLKUL,Malaysia,1,0,0,8.83,0
+2,Internet,RoundTrip,292,89,9,Mon,AKLKUL,New Zealand,1,0,1,8.83,0
+2,Internet,RoundTrip,166,21,22,Fri,AKLKUL,New Zealand,1,0,1,8.83,0
+4,Internet,RoundTrip,423,22,13,Sun,AKLKUL,Malaysia,1,0,0,8.83,0
+2,Internet,RoundTrip,310,22,10,Sun,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Internet,RoundTrip,276,33,6,Mon,AKLKUL,New Zealand,1,0,1,8.83,0
+2,Internet,RoundTrip,15,40,1,Thu,AKLKUL,Malaysia,1,0,1,8.83,0
+8,Internet,RoundTrip,110,17,3,Sun,AKLKUL,Malaysia,1,1,0,8.83,1
+1,Internet,RoundTrip,181,18,21,Sun,AKLKUL,New Zealand,0,0,1,8.83,0
+1,Mobile,RoundTrip,67,17,12,Mon,AKLKUL,Malaysia,1,0,1,8.83,1
+1,Internet,RoundTrip,38,32,0,Sun,AKLKUL,New Zealand,1,0,1,8.83,0
+2,Internet,RoundTrip,294,22,14,Mon,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,115,36,6,Wed,AKLKUL,Malaysia,1,0,1,8.83,1
+1,Internet,RoundTrip,255,17,2,Sat,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,188,19,16,Sun,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Internet,RoundTrip,165,17,9,Wed,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Mobile,RoundTrip,150,22,4,Tue,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,48,17,3,Sat,AKLKUL,Malaysia,1,0,0,8.83,1
+1,Internet,RoundTrip,15,62,4,Sun,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,109,20,5,Tue,AKLKUL,Singapore,1,0,1,8.83,0
+3,Mobile,RoundTrip,412,21,11,Sun,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,274,29,8,Thu,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Internet,RoundTrip,37,18,14,Mon,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,62,17,9,Mon,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,158,35,20,Tue,AKLKUL,Singapore,1,0,1,8.83,0
+1,Internet,RoundTrip,31,22,1,Fri,AKLKUL,Malaysia,1,0,1,8.83,1
+1,Internet,RoundTrip,269,49,12,Mon,AKLKUL,Malaysia,0,0,1,8.83,0
+1,Internet,RoundTrip,388,22,2,Mon,AKLKUL,Malaysia,0,0,0,8.83,0
+5,Internet,RoundTrip,231,17,16,Tue,AKLKUL,Malaysia,1,0,0,8.83,0
+2,Internet,RoundTrip,90,20,5,Fri,AKLKUL,New Zealand,1,1,1,8.83,0
+4,Internet,RoundTrip,335,49,3,Wed,AKLKUL,New Zealand,0,0,0,8.83,0
+2,Internet,RoundTrip,322,17,15,Sat,AKLKUL,Malaysia,0,0,0,8.83,0
+2,Internet,RoundTrip,288,56,9,Mon,AKLKUL,Malaysia,1,1,1,8.83,1
+2,Internet,RoundTrip,238,17,14,Sat,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,55,21,12,Mon,AKLKUL,Malaysia,1,0,0,8.83,1
+2,Internet,RoundTrip,203,36,22,Tue,AKLKUL,New Zealand,1,0,0,8.83,0
+2,Internet,RoundTrip,146,38,2,Mon,AKLKUL,Malaysia,1,1,0,8.83,0
+1,Internet,RoundTrip,123,30,7,Mon,AKLKUL,New Zealand,1,1,0,8.83,0
+1,Internet,RoundTrip,22,23,3,Thu,AKLKUL,New Zealand,0,0,1,8.83,0
+1,Internet,RoundTrip,21,42,19,Sat,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Mobile,RoundTrip,33,47,12,Sun,AKLKUL,Malaysia,1,0,0,8.83,0
+2,Internet,RoundTrip,179,21,11,Tue,AKLKUL,New Zealand,1,0,0,8.83,1
+2,Mobile,RoundTrip,124,17,8,Sun,AKLKUL,New Zealand,0,0,0,8.83,0
+2,Internet,RoundTrip,162,18,7,Tue,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,12,28,8,Wed,AKLKUL,Malaysia,1,0,0,8.83,1
+2,Internet,RoundTrip,294,40,10,Sat,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,116,86,5,Wed,AKLKUL,Malaysia,1,0,0,8.83,0
+2,Internet,RoundTrip,71,19,1,Thu,AKLKUL,Malaysia,1,1,0,8.83,0
+2,Internet,RoundTrip,30,22,5,Wed,AKLKUL,Malaysia,0,0,0,8.83,0
+2,Internet,RoundTrip,120,19,19,Sat,AKLKUL,United Kingdom,0,0,0,8.83,0
+2,Internet,RoundTrip,305,30,15,Fri,AKLKUL,China,1,1,1,8.83,0
+1,Internet,RoundTrip,322,106,10,Wed,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Internet,RoundTrip,198,32,4,Tue,AKLKUL,New Zealand,1,0,1,8.83,0
+2,Internet,RoundTrip,172,64,12,Fri,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,26,90,15,Sun,AKLKUL,Malaysia,1,0,0,8.83,1
+4,Internet,RoundTrip,417,17,9,Sun,AKLKUL,New Zealand,1,1,0,8.83,0
+1,Internet,RoundTrip,71,130,10,Sat,AKLKUL,New Zealand,1,0,0,8.83,0
+3,Internet,RoundTrip,97,32,2,Sun,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,406,37,9,Sun,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,21,1,9,Fri,AKLKUL,New Zealand,0,0,0,8.83,0
+3,Internet,RoundTrip,180,71,8,Sat,AKLKUL,New Zealand,1,1,1,8.83,0
+1,Internet,RoundTrip,29,304,13,Sun,AKLKUL,Malaysia,1,0,0,8.83,0
+2,Mobile,RoundTrip,35,31,5,Tue,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Internet,RoundTrip,24,90,14,Sun,AKLKUL,Cambodia,1,0,0,8.83,0
+1,Internet,RoundTrip,278,24,6,Wed,AKLKUL,Malaysia,1,0,0,8.83,0
+2,Internet,RoundTrip,333,17,15,Mon,AKLKUL,Malaysia,1,1,0,8.83,0
+1,Internet,RoundTrip,53,28,4,Mon,AKLKUL,Malaysia,1,0,0,8.83,0
+2,Internet,RoundTrip,412,17,9,Tue,AKLKUL,Malaysia,1,1,0,8.83,0
+1,Internet,RoundTrip,85,20,22,Mon,AKLKUL,New Zealand,1,0,0,8.83,0
+2,Internet,RoundTrip,110,23,9,Mon,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,320,22,20,Sun,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Internet,RoundTrip,141,25,22,Tue,AKLKUL,New Zealand,1,1,0,8.83,0
+2,Internet,RoundTrip,270,42,15,Fri,AKLKUL,Malaysia,1,0,1,8.83,1
+1,Internet,RoundTrip,76,17,0,Sun,AKLKUL,New Zealand,0,0,0,8.83,1
+2,Internet,RoundTrip,349,19,14,Mon,AKLKUL,Malaysia,0,1,1,8.83,0
+1,Internet,RoundTrip,19,25,12,Wed,AKLKUL,Malaysia,1,0,0,8.83,1
+1,Internet,RoundTrip,120,22,7,Sun,AKLKUL,Malaysia,0,1,0,8.83,0
+2,Internet,RoundTrip,84,23,9,Mon,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,25,186,7,Wed,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,104,41,22,Mon,AKLKUL,New Zealand,1,0,0,8.83,0
+2,Internet,RoundTrip,205,93,9,Mon,AKLKUL,New Zealand,1,1,1,8.83,0
+1,Internet,RoundTrip,52,25,10,Mon,AKLKUL,Malaysia,1,1,0,8.83,0
+2,Internet,RoundTrip,139,23,1,Fri,AKLKUL,Malaysia,0,0,0,8.83,1
+2,Internet,RoundTrip,243,27,16,Mon,AKLKUL,Malaysia,1,1,1,8.83,1
+2,Internet,RoundTrip,269,30,21,Mon,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,165,24,12,Sun,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,21,24,6,Mon,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,173,37,5,Wed,AKLKUL,New Zealand,1,0,0,8.83,0
+5,Mobile,RoundTrip,37,43,7,Mon,AKLKUL,Ireland,1,1,1,8.83,0
+2,Internet,RoundTrip,154,36,7,Sat,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Internet,RoundTrip,168,23,7,Fri,AKLKUL,Malaysia,1,1,1,8.83,0
+2,Internet,RoundTrip,241,25,23,Sun,AKLKUL,Netherlands,0,0,0,8.83,0
+2,Internet,RoundTrip,118,21,13,Mon,AKLKUL,Malaysia,1,0,1,8.83,1
+1,Internet,RoundTrip,182,21,13,Sun,AKLKUL,Malaysia,1,0,1,8.83,1
+1,Internet,RoundTrip,62,116,3,Sat,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,263,25,9,Thu,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,384,18,1,Thu,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Internet,RoundTrip,267,91,7,Tue,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,134,27,18,Mon,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Internet,RoundTrip,144,35,7,Fri,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,221,24,9,Wed,AKLKUL,Malaysia,1,0,1,8.83,1
+2,Internet,RoundTrip,193,43,20,Tue,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,58,101,7,Sun,AKLKUL,Malaysia,1,0,1,8.83,0
+2,Internet,RoundTrip,49,61,21,Fri,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,43,35,10,Sun,AKLKUL,New Zealand,1,0,1,8.83,0
+2,Internet,RoundTrip,247,21,15,Wed,AKLKUL,Singapore,1,0,1,8.83,1
+1,Internet,RoundTrip,63,21,23,Sat,AKLKUL,New Zealand,0,0,1,8.83,0
+1,Internet,RoundTrip,101,22,9,Sat,AKLKUL,Malaysia,1,0,1,8.83,0
+3,Internet,RoundTrip,305,21,15,Tue,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,186,42,3,Fri,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,33,19,16,Fri,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,382,24,9,Tue,AKLKUL,Malaysia,0,0,0,8.83,0
+2,Internet,RoundTrip,296,17,13,Tue,AKLKUL,Malaysia,0,0,0,8.83,0
+2,Internet,RoundTrip,361,59,10,Mon,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,69,18,18,Sat,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Internet,RoundTrip,67,19,0,Mon,AKLKUL,New Zealand,1,0,0,8.83,0
+1,Internet,RoundTrip,226,223,2,Mon,AKLKUL,Malaysia,1,1,1,8.83,0
+1,Internet,RoundTrip,115,37,7,Sun,AKLKUL,New Zealand,1,0,0,8.83,0
+2,Internet,RoundTrip,40,130,9,Sat,AKLKUL,Poland,1,0,0,8.83,0
+1,Internet,RoundTrip,198,36,4,Mon,AKLKUL,Malaysia,1,0,1,8.83,0
+2,Internet,RoundTrip,133,20,8,Sun,AKLKUL,New Zealand,1,1,1,8.83,0
+2,Internet,RoundTrip,135,17,2,Wed,AKLKUL,Malaysia,1,1,1,8.83,1
+3,Internet,RoundTrip,210,18,2,Mon,AKLKUL,Malaysia,1,0,1,8.83,0
+1,Internet,RoundTrip,115,17,8,Sat,AKLKUL,Malaysia,1,0,0,8.83,0
+1,Internet,RoundTrip,61,415,6,Fri,AKLKUL,Malaysia,1,0,1,8.83,1
+1,Internet,RoundTrip,85,23,11,Mon,AKLKUL,Malaysia,0,0,0,8.83,0
+2,Internet,RoundTrip,236,21,18,Wed,AKLKUL,Germany,0,0,0,8.83,0
+1,Internet,RoundTrip,106,31,22,Tue,AKLKUL,New Zealand,1,0,1,8.83,0
+1,Internet,RoundTrip,35,60,15,Fri,AKLKUL,Malaysia,1,1,0,8.83,0
+1,Internet,RoundTrip,26,29,16,Fri,AKLKUL,Malaysia,1,0,1,8.83,1
+1,Internet,RoundTrip,54,17,13,Sun,AKLKUL,Malaysia,1,0,1,8.83,1
+1,Internet,RoundTrip,40,18,10,Sat,AKLKUL,Malaysia,1,1,0,8.83,0
+4,Mobile,RoundTrip,348,17,7,Wed,AKLKUL,Malaysia,0,0,0,8.83,0
+1,Internet,RoundTrip,271,312,9,Wed,AKLKUL,New Zealand,0,0,0,8.83,0
+1,Internet,RoundTrip,179,23,10,Sun,AKLKUL,New Zealand,1,0,0,8.83,0
